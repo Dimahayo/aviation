@@ -129,6 +129,16 @@
     color: black;
     margin-bottom: 1rem;
   }
+  footer{
+    background-color: rgb(4, 43, 4);
+    color: white;
+    text-align: center;
+    padding: 3rem;
+    min-height: 15vh;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+  }
   
   
   
